@@ -1,2 +1,2 @@
-# blog-attribute-testing
-Code to accompany a blog post on testing the presence of an attribute on a class or method
+# Blog Post
+This code accompanies a blog post on testing for the presence of an attribute on a method or class. The blog post can be found at: 
